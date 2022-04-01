@@ -1,0 +1,11 @@
+.writing-page {
+  min-height: 100vh;
+
+  .writing-block {
+    border: 1px solid black;
+    background-color: lightgray;
+    min-height: calc(99vh - 20px);
+    padding: 10px;
+    font-size: 18px;
+  }
+}
